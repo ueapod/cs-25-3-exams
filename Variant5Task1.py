@@ -9,10 +9,10 @@ while i < len(s):
         word += s [i]
     else:
         j = len(word) - 1
-        while j -= 1:
+        while j -= 1
     result += ' '
     word = ""
- i += 1
+    i += 1
 j = len(word) - 1
 while j >= 0:
     result += word[j]
